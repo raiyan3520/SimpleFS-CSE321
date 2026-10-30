@@ -1,0 +1,17 @@
+# Compiled binaries
+simplefs_builder
+simplefs_adder
+*.o
+*.out
+
+# Generated disk images
+*.img
+
+# macOS metadata
+.DS_Store
+__MACOSX/
+._*
+
+# Editor folders
+.vscode/
+.idea/
